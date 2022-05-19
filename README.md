@@ -3,8 +3,8 @@
 
 This is flutter app and Dart language is used to develop this app.
 
-This app is based on multiple widget. Such as, scaffold, appbar etc.
+This app is based on multiple widget. Such as, scaffold, appbar etc. This app comes with elevated button and many more features.
 
-Main purpose to make this app is to show Flutter development skills and its the part of University practical exam's practical. 
+Main purpose to make this app is to show Flutter development skills and its the part of University exam's practical. 
 
-
+By providing more advanced UI features and widgets, we can make same app more advanced and useful for commercial purpose.
